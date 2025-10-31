@@ -2,7 +2,7 @@
   "name": "my-first-react-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://entongrp.github.io/my-first-react-app",
+  "homepage": "https://entongrp.github.io/portfolio",
   "dependencies": {
     "@radix-ui/react-accordion": "^1.2.12",
     "@radix-ui/react-alert-dialog": "^1.1.15",
